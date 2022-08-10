@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>java结构</title>
+    <link href="/2022/08/10/java%E7%BB%93%E6%9E%84/"/>
+    <url>/2022/08/10/java%E7%BB%93%E6%9E%84/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>class是关键字</p></blockquote><blockquote><p>类名要求：</p></blockquote><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs">类名必须以英文字母开头，后接字母，数字和下划线的组合<br>习惯以大写字母开头<br></code></pre></td></tr></table></figure><blockquote><p>public是访问修饰符(<em>方法权限访问修饰符</em>)</p></blockquote><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs actionscript">不写<span class="hljs-keyword">public</span>，也能正确编译，但是这个类将无法从命令行执行。<br></code></pre></td></tr></table></figure><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs actionscript">我们注意到<span class="hljs-keyword">public</span>除了可以修饰<span class="hljs-keyword">class</span>外，也可以修饰方法。而关键字<span class="hljs-keyword">static</span>是另一个修饰符，它表示静态方法，<br><br></code></pre></td></tr></table></figure><blockquote><p>方法名也有命名规则，但是首字母小写<br>##注释<br>Java有3种注释，第一种是单行注释，以双斜线开头，直到这一行的结尾结束：<br>而多行注释以&#x2F;<em>星号开头，以</em>&#x2F;结束，可以有多行<br>还有一种特殊的多行注释，以&#x2F;*<em>开头，以</em>&#x2F;结束，如果有多行，每行通常以星号开头：</p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>又是忙碌的一天2022.08.10</title>
     <link href="/2022/08/10/%E5%8F%88%E6%98%AF%E5%BF%99%E7%A2%8C%E7%9A%84%E4%B8%80%E5%A4%A92022-08-10/"/>
     <url>/2022/08/10/%E5%8F%88%E6%98%AF%E5%BF%99%E7%A2%8C%E7%9A%84%E4%B8%80%E5%A4%A92022-08-10/</url>
